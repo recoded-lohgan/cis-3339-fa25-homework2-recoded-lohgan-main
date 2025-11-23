@@ -1,0 +1,90 @@
+[
+    {
+        "student_id": "S1001",
+        "student_name": "Alice Johnson",
+        "major": "Computer Science",
+        "year": 2,
+        "course_code": "CS101",
+        "course_name": "Intro to Programming",
+        "instructor": "Dr. Smith",
+        "semester": "Fall 2025",
+        "grade": 88
+    },
+    {
+        "student_id": "S1002",
+        "student_name": "Bob Lee",
+        "major": "Mathematics",
+        "year": 3,
+        "course_code": "MATH201",
+        "course_name": "Linear Algebra",
+        "instructor": "Dr. Green",
+        "semester": "Fall 2025",
+        "grade": 91
+    },
+    {
+        "student_id": "S1003",
+        "student_name": "Carol White",
+        "major": "Computer Science",
+        "year": 1,
+        "course_code": "CS102",
+        "course_name": "Data Structures",
+        "instructor": "Dr. Smith",
+        "semester": "Spring 2025",
+        "grade": 95
+    },
+    {
+        "student_id": "S1004",
+        "student_name": "David Kim",
+        "major": "Physics",
+        "year": 4,
+        "course_code": "PHYS301",
+        "course_name": "Quantum Mechanics",
+        "instructor": "Dr. Brown",
+        "semester": "Fall 2025",
+        "grade": 84
+    },
+    {
+        "student_id": "S1005",
+        "student_name": "Eva Green",
+        "major": "Computer Science",
+        "year": 3,
+        "course_code": "CS103",
+        "course_name": "Database Systems",
+        "instructor": "Dr. Smith",
+        "semester": "Fall 2025",
+        "grade": 89
+    },
+    {
+        "student_id": "S1006",
+        "student_name": "Frank Moore",
+        "major": "Mathematics",
+        "year": 2,
+        "course_code": "MATH201",
+        "course_name": "Linear Algebra",
+        "instructor": "Dr. Green",
+        "semester": "Spring 2025",
+        "grade": 78
+    },
+    {
+        "student_id": "S1007",
+        "student_name": "Grace Hall",
+        "major": "Computer Science",
+        "year": 3,
+        "course_code": "CS102",
+        "course_name": "Data Structures",
+        "instructor": "Dr. Smith",
+        "semester": "Fall 2025",
+        "grade": 93
+    },
+    {
+        "student_id": "S1008",
+        "student_name": "Henry Adams",
+        "major": "Physics",
+        "year": 1,
+        "course_code": "PHYS301",
+        "course_name": "Quantum Mechanics",
+        "instructor": "Dr. Brown",
+        "semester": "Spring 2025",
+        "grade": 85
+    }
+]
